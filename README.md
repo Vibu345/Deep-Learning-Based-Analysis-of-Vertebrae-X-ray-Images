@@ -1,0 +1,2 @@
+# Deep-Learning-Based-Analysis-of-Vertebrae-X-ray-Images
+Deep learning-based model for classifying vertebral X-rays into Normal, Scoliosis, and Spondylolisthesis. Using a custom CNN, this project achieved 91.25% training and 88% validation accuracy. Automates vertebral disorder diagnosis, enhancing speed and precision. Future aims include expanding datasets and transfer learning for clinical integration.
